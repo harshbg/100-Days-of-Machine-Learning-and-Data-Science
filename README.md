@@ -8,6 +8,8 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 ## Week 1
 
 * Essesnce of Linear Algebra [Youtube](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* Data Preprocessing: Machine Learning A-Z on [Udemy](https://www.udemy.com/machinelearning/learn/v4/content)
+* Exploratory Data Analysis 
 
 
 
