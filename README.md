@@ -11,6 +11,9 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 * Data Preprocessing: Machine Learning A-Z on [Udemy](https://www.udemy.com/machinelearning/learn/v4/content)
 * Exploratory Data Analysis 
 
+## Week 2
 
+* Machine Learning for Insights Challenge on [Kaggle](https://www.kaggle.com/ml-for-insights-signup)
+  * Permutation Importance
 
   
