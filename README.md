@@ -9,7 +9,7 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 
 * Essesnce of Linear Algebra [Youtube](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Data Preprocessing: Machine Learning A-Z on [Udemy](https://www.udemy.com/machinelearning/learn/v4/content)
-* [Exploratory Data Analysis](https://github.com/harshbg/Telecom-Churn-Data-Analysis/blob/master/Exploratory%20Data%20Analysis.ipynb) 
+* Exploratory Data Analysis [Telecom Churn Data](https://github.com/harshbg/Telecom-Churn-Data-Analysis/blob/master/Exploratory%20Data%20Analysis.ipynb) 
 
 ## Week 2
 
