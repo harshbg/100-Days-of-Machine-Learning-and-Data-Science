@@ -15,5 +15,6 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 
 * Machine Learning for Insights Challenge on [Kaggle](https://www.kaggle.com/ml-for-insights-signup)
   * Permutation Importance
+  * Visual Data Analysis [Telecom Churn Data](https://github.com/harshbg/Telecom-Churn-Data-Analysis/blob/master/2-Visual%20Data%20Analysis.ipynb)
 
   
