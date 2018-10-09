@@ -1,6 +1,7 @@
 
 # Projects
 
-## Telecom Churn Data Analysis
+- Telecom Churn Data Analysis
 
-## Video Game Data Analysis
+- Video Game Data Analysis
+
