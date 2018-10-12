@@ -20,3 +20,5 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 ## Week 3  
 
 * Visual Data Analysis [Video Game Sales Data](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Projects/Video%20Game%20Sales/Video%20Game%20Visualization.ipynb)
+
+## Week 4
