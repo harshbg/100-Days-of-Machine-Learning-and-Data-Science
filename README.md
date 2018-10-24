@@ -22,4 +22,4 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 * Visual Data Analysis [Video Game Sales Data](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Projects/Video%20Game%20Sales/Video%20Game%20Visualization.ipynb)
 
 ## Week 4
-* Simle Linear Regression [Udemy Video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) | [Github Code](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Code/Regression.ipynb)
+* Simle Linear Regression [Udemy Video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) | [Code](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Code/Regression.ipynb)
