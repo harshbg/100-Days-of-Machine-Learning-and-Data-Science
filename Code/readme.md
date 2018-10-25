@@ -10,4 +10,5 @@
 ## Regression [Py](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Code/Regression.ipynb) | [R]()
   * Simple Linear Regression
   * Multiple Linear Regression
+  * Polynomial Linear Regression
   
