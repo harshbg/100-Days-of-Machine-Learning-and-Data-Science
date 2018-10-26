@@ -8,8 +8,8 @@
   * Feature Scaling
 
 ## Regression [Py](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Code/Regression.ipynb) | [R]()
-  * Simple Linear Regression
-  * Multiple Linear Regression
-  * Polynomial Linear Regression
-  * Support Vector Regression (SVR)
+  1. Simple Linear Regression
+  2. Multiple Linear Regression
+  3. Polynomial Linear Regression
+  4. Support Vector Regression (SVR)
   
