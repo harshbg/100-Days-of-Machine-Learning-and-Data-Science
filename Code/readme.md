@@ -11,4 +11,5 @@
   * Simple Linear Regression
   * Multiple Linear Regression
   * Polynomial Linear Regression
+  * Support Vector Regression (SVR)
   
