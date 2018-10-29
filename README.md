@@ -23,3 +23,7 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 
 ## Week 4
 * Simle Linear Regression [Udemy Video](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) | [Code](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Code/Regression.ipynb)
+
+
+## Week 5
+* How Google Does Machine Learning [Certificate](https://www.coursera.org/account/accomplishments/records/VWFS4BR5CPUF) 
