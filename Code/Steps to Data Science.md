@@ -1,16 +1,19 @@
 
-#Steps to implement a project in Data Science
-
-Data Cleaning
-
-Handling missing values
-
-Determining the type of problem 
-
-Prediction Classification 
+# Steps to implement a project in Data Science
 
 
-Exploratory Data Analysis
+## Data Cleaning
+ * Handling missing values
+
+
+## Exploratory Data Analysis
+
+
+## Determining the type of problem 
+
+* Prediction
+* Classification 
+
 
 Checking for Normality
 
@@ -19,3 +22,4 @@ Checking for Heteroskedasticity
 Model fitting 
 
 Test Train Split
+
