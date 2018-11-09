@@ -15,7 +15,7 @@
   5. Decision Tree Regression
   6. Random Forest Regression
   
-## Classification [Py]()|[R]()  
+## Classification [Py](https://github.com/harshbg/100-Days-of-Machine-Learning-and-Data-Science/blob/master/Code/Classification.ipynb) | [R]()  
   1. Logistic Regression
   2. K-Nearest Neighbors (K-NN)
   3. Support Vector Machine (SVM)
