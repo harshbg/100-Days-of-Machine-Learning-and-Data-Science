@@ -27,3 +27,8 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 
 ## Week 5
 * How Google Does Machine Learning [Certificate](https://www.coursera.org/account/accomplishments/records/VWFS4BR5CPUF) 
+
+## Week 6
+* Machine Learning Classification Algorithms
+  * Logistic
+
