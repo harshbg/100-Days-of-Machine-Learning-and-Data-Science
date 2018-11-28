@@ -31,4 +31,5 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 ## Week 6
 * Machine Learning Classification Algorithms [Py]()
   * Logistic
+  * K-Nearest Neighbors (K-NN)
 
