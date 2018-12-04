@@ -32,4 +32,5 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 * Machine Learning Classification Algorithms [Py]()
   * Logistic
   * K-Nearest Neighbors (K-NN)
+  * Support Vector Machine (SVM)
 
