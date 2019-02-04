@@ -33,4 +33,6 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
   * Logistic
   * K-Nearest Neighbors (K-NN)
   * Support Vector Machine (SVM)
+  
+## Week 7
 
