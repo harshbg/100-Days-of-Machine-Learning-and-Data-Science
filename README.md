@@ -36,4 +36,5 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
   
 ## Week 7
 * Project: Minimizing Churn Rate Through Analysis of Financial Habits
+* 
 
