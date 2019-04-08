@@ -1,4 +1,4 @@
-# 100-Days-of-Machine-Learning-and-Data-Science
+# 100 Days of Machine Learning and Data Science
 
 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
