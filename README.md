@@ -38,3 +38,6 @@ Make a public log of work, weekly on [Github](https://github.com/harshbg/100-Day
 * Project: Minimizing Churn Rate Through Analysis of Financial Habits
 * Launching into Machine Learning [Certificate](https://www.coursera.org/account/accomplishments/certificate/A8AU6WS3TSWN)
 
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
